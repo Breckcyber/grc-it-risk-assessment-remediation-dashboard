@@ -12,6 +12,8 @@ The project is based on a fictional Canadian healthcare organization, **MapleCar
 **Status:** In Progress  
 **Current Stage:** Risk Register Development  
 **Completed Deliverables:** Project Charter, Company Profile, IT Asset & Process Inventory  
+**Current Stage:** Control Mapping Matrix Development  
+**Completed Deliverables:** Project Charter, Company Profile, IT Asset & Process Inventory, Risk Register
 
 ---
 
@@ -48,6 +50,7 @@ Because the organization handles sensitive patient, employee, and billing inform
 | 1. Project Charter | Defines the project background, objective, scope, stakeholders, frameworks, final deliverables, and success criteria. | [View Deliverable](01_Project_Charter/Project_Charter.pdf) |
 | 2. Company Profile | Describes MapleCare’s business environment, key systems, sensitive data, current risk concerns, and need for a GRC assessment. | [View Deliverable](02_Company_Profile/Company_Profile.pdf) |
 | 3. IT Asset & Process Inventory | Identifies MapleCare’s key systems and business processes, including owners, data types, criticality, risk levels, and main risk concerns. | [View Deliverable](03_Asset_Process_Inventory/Asset_Process_Inventory.xlsx) |
+| 4. Risk Register | Documents key IT, cybersecurity, vendor, privacy, and operational risks, including impact, likelihood, risk rating, existing controls, control gaps, owners, treatment plans, and status. | [View Deliverable](04_Risk_Register/Risk_Register.xlsx) |
 ---
 
 ## Skills Demonstrated So Far
