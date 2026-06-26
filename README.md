@@ -81,13 +81,3 @@ Because the organization handles sensitive patient, employee, and billing inform
 | 8 | Dashboard & Final Report | Not Started |
 
 ---
-
-## Target Roles This Project Supports
-
-- GRC Analyst
-- IT Risk Analyst
-- Cybersecurity Compliance Analyst
-- IT Audit Analyst
-- Third-Party Risk Analyst
-- Technology Risk Analyst
-- Security Governance Analyst
