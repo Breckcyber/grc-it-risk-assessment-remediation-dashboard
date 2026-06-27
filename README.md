@@ -1,4 +1,4 @@
-# IT Risk & GRC Home Lab
+
 # Technology Risk Assessment, Control Assurance & Remediation Program
 
 This repository presents a practical technology risk and control assurance engagement developed for **MapleCare Health Services**, a fictional Canadian healthcare organization.
