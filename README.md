@@ -1,83 +1,233 @@
 # IT Risk & GRC Home Lab
-## Risk Assessment, Control Mapping & Remediation Dashboard
+# Technology Risk Assessment, Control Assurance & Remediation Program
 
-This project is a practical GRC home lab that simulates how a junior IT Risk or GRC Analyst would support an organization in identifying cybersecurity risks, documenting controls, tracking remediation, and reporting risk status to management.
+This repository presents a practical technology risk and control assurance engagement developed for **MapleCare Health Services**, a fictional Canadian healthcare organization.
 
-The project is based on a fictional Canadian healthcare organization, **MapleCare Health Services**, which handles patient records, employee information, billing data, and internal business documents.
+The project demonstrates how a Technology Risk or GRC Analyst can move from business understanding and risk identification to control design, testing preparation, remediation tracking, and executive reporting.
 
----
+The engagement focuses on technology and cybersecurity risks affecting sensitive patient, employee, billing, and internal business information.
 
-## Project Status
-
-**Status:** In Progress  
-**Current Stage:** Risk Register Development  
-**Completed Deliverables:** Project Charter, Company Profile, IT Asset & Process Inventory  
-**Current Stage:** Control Mapping Matrix Development  
-**Completed Deliverables:** Project Charter, Company Profile, IT Asset & Process Inventory, Risk Register
+> **Portfolio notice:** MapleCare Health Services is fictional. All information, risks, controls, and records in this repository were created for professional learning and portfolio demonstration. No real patient, employee, client, or company data is used.
 
 ---
 
-## My Role
+## Engagement Objective
 
-In this project, I act as a **Junior IT Risk & GRC Analyst** responsible for supporting the risk assessment process.
+The objective of the engagement is to provide management with a structured view of MapleCare’s key technology risks, existing controls, control gaps, ownership, and remediation priorities.
 
-My responsibilities include:
+The assessment covers areas including:
 
-- Understanding the business environment
-- Identifying key IT systems and business processes
-- Documenting cybersecurity, vendor, access control, backup, and operational risks
-- Scoring risks using impact and likelihood
-- Identifying existing controls and control gaps
-- Mapping risks to NIST CSF 2.0, NIST SP 800-53, and ISO/IEC 27001:2022
-- Defining audit evidence requirements
-- Tracking remediation actions, owners, due dates, and status
-- Preparing risk reporting for management review
+* Identity and access management
+* Microsoft 365 and SharePoint security
+* Patient-record access
+* Employee offboarding
+* Third-party and vendor risk
+* Backup and recovery
+* Incident response
+* Security awareness
+* Patch and vulnerability management
+* Data classification
+* Endpoint security
+* Business continuity
+* Risk governance
+* Audit evidence management
 
 ---
 
 ## Business Scenario
 
-MapleCare Health Services is a fictional healthcare organization in Canada with approximately 150 employees. The organization uses Microsoft 365, SharePoint, a patient records system, an HR management system, endpoint devices, and a third-party billing vendor portal.
+MapleCare Health Services is a fictional Canadian healthcare organization with approximately 150 employees.
 
-Because the organization handles sensitive patient, employee, and billing information, leadership needs a clearer view of its IT risks, existing controls, control gaps, remediation priorities, and audit readiness.
+The organization relies on Microsoft 365, SharePoint, a patient records system, an HR management platform, endpoint devices, backup services, and a third-party billing portal.
+
+Because these systems support important healthcare and business operations, management requires a clearer understanding of:
+
+* Critical technology risks
+* Existing control coverage
+* Control design gaps
+* Third-party exposure
+* Risk ownership
+* Remediation priorities
+* Audit and assurance readiness
+
+---
+
+## Engagement Approach
+
+The work follows a practical technology risk lifecycle:
+
+1. Define the engagement scope and objectives
+2. Understand the business and technology environment
+3. Identify critical assets and business processes
+4. Identify and assess technology risks
+5. Document existing controls and control gaps
+6. Design and map recommended controls
+7. Define testing procedures and evidence requirements
+8. Assess control effectiveness
+9. Track remediation actions
+10. Report results to management
+
+---
+
+## Engagement Role
+
+In this portfolio engagement, I perform the responsibilities of a **Technology Risk and GRC Analyst**.
+
+My responsibilities include:
+
+* Defining the assessment scope, stakeholders, and deliverables
+* Reviewing the business and technology environment
+* Identifying critical systems, processes, data, and owners
+* Developing technology and cybersecurity risk statements
+* Assessing likelihood, impact, and business consequences
+* Documenting existing controls and control gaps
+* Designing recommended control activities
+* Mapping controls to NIST and ISO frameworks
+* Preparing control-testing procedures
+* Defining evidence requirements
+* Supporting remediation planning and executive reporting
 
 ---
 
 ## Project Deliverables
 
-| Deliverable | Description | File |
-|---|---|---|
-| 1. Project Charter | Defines the project background, objective, scope, stakeholders, frameworks, final deliverables, and success criteria. | [View Deliverable](01_Project_Charter/Project_Charter.pdf) |
-| 2. Company Profile | Describes MapleCare’s business environment, key systems, sensitive data, current risk concerns, and need for a GRC assessment. | [View Deliverable](02_Company_Profile/Company_Profile.pdf) |
-| 3. IT Asset & Process Inventory | Identifies MapleCare’s key systems and business processes, including owners, data types, criticality, risk levels, and main risk concerns. | [View Deliverable](03_Asset_Process_Inventory/Asset_Process_Inventory.xlsx) |
-| 4. Risk Register | Documents key IT, cybersecurity, vendor, privacy, and operational risks, including impact, likelihood, risk rating, existing controls, control gaps, owners, treatment plans, and status. | [View Deliverable](04_Risk_Register/Risk_Register.xlsx) |
----
-
-## Skills Demonstrated So Far
-
-- GRC documentation
-- Project scoping
-- Business environment analysis
-- IT asset and process identification
-- Risk context development
-- Stakeholder identification
-- Data sensitivity awareness
-- Audit and risk assessment preparation
-- NIST CSF 2.0, NIST SP 800-53, and ISO/IEC 27001:2022 alignment
+| # | Deliverable                                                | Description                                                                                                                                                        | Status     |
+| - | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
+| 1 | [Project Charter](01_Project_Charter/)                     | Defines the engagement objective, scope, stakeholders, frameworks, exclusions, and expected outputs.                                                               | Completed  |
+| 2 | [Company Profile](02_Company_Profile/)                     | Documents MapleCare’s services, technology environment, sensitive data, business processes, and risk context.                                                      | Completed  |
+| 3 | [Asset and Process Inventory](03_Asset_Process_Inventory/) | Identifies important systems and processes, including ownership, business purpose, data sensitivity, criticality, and key concerns.                                | Completed  |
+| 4 | [Risk Register](04_Risk_Register/)                         | Documents 15 technology, cybersecurity, privacy, vendor, resilience, and governance risks, including scores, impacts, controls, gaps, owners, and treatment plans. | Completed  |
+| 5 | [Risk and Control Matrix](05_Risk_Control_Matrix/)         | Links identified risks to control objectives, recommended controls, owners, frequencies, framework references, testing procedures, and evidence requirements.      | Completed  |
+| 6 | Control Testing and Evidence                               | Will assess control design and operating effectiveness through evidence review, sampling, exception analysis, and documented conclusions.                          | Next Phase |
+| 7 | Remediation Tracker                                        | Will track findings, action owners, target dates, status, closure evidence, and validation.                                                                        | Planned    |
+| 8 | Executive Dashboard and Report                             | Will summarize risk exposure, control effectiveness, remediation progress, and management priorities.                                                              | Planned    |
 
 ---
 
-## Full Project Roadmap
+## Risk and Control Matrix
 
-| Step | Deliverable | Status |
-|---|---|---|
-| 1 | Project Charter | Completed |
-| 2 | Company Profile | Completed |
-| 3 | IT Asset & Process Inventory | Completed |
-| 4 | Risk Register | In Progress |
-| 5 | Control Mapping Matrix | Not Started |
-| 6 | Control Testing & Evidence Checklist | Not Started |
-| 7 | Remediation Tracker | Not Started |
-| 8 | Dashboard & Final Report | Not Started |
+The Risk and Control Matrix connects the risks identified in the Risk Register to the control activities required to reduce them.
+
+For each risk, the matrix documents:
+
+* Existing control
+* Control gap
+* Control objective
+* Recommended control
+* Control owner
+* Control frequency
+* Control type and nature
+* NIST CSF 2.0 mapping
+* NIST SP 800-53 mapping
+* ISO/IEC 27001:2022 alignment
+* Planned testing procedure
+* Evidence requirements
+* Preliminary testing status
+
+All controls are currently marked **Not Tested**. Control design and operating effectiveness will be assessed during the control-testing phase.
+
+### Example: Multi-Factor Authentication
+
+Risk R-001 addresses incomplete MFA coverage in Microsoft 365.
+
+The existing control is that MFA is enabled for selected administrator accounts. The control gap is that MFA is not consistently enforced for all users and exceptions are not formally governed.
+
+The recommended control requires MFA for employees, contractors, administrators, and remote users, with documented, approved, time-limited exceptions and regular exception reviews.
+
+The planned testing approach includes:
+
+* Reviewing Microsoft 365 authentication settings
+* Obtaining the complete user population
+* Comparing user accounts with MFA registration records
+* Sampling different account types
+* Reviewing excluded accounts
+* Validating exception approvals and review evidence
 
 ---
+
+## Framework Alignment
+
+The project uses the following frameworks to support control design and assessment:
+
+* **NIST Cybersecurity Framework 2.0**
+* **NIST SP 800-53 Revision 5**
+* **ISO/IEC 27001:2022**
+* **NIST AI Risk Management Framework**, where applicable
+* **ISO/IEC 42001 concepts**, where applicable
+
+Framework references are used to support the risk and control analysis. They do not imply certification or formal compliance by the fictional organization.
+
+---
+
+## Skills Demonstrated
+
+* Technology risk assessment
+* Cybersecurity risk analysis
+* Risk-register development
+* Business-impact analysis
+* IT asset and process identification
+* Control-gap analysis
+* Risk and control matrix development
+* Control design
+* Control ownership and frequency definition
+* Control-testing preparation
+* Audit evidence planning
+* Third-party risk assessment
+* NIST and ISO control mapping
+* Remediation planning
+* Executive risk reporting
+* Microsoft Excel
+* Python and AI-assisted GRC workflows
+
+---
+
+## Current Status
+
+**Completed:** Project Charter, Company Profile, Asset and Process Inventory, Risk Register, and Risk and Control Matrix.
+
+**Current phase:** Control Testing and Evidence.
+
+**Next activity:** Assess selected controls for design and operating effectiveness, beginning with multi-factor authentication, employee offboarding, patient-record access, vendor due diligence, and backup restoration.
+
+---
+
+## Repository Structure
+
+```text
+grc-it-risk-assessment-remediation-dashboard
+│
+├── 01_Project_Charter
+├── 02_Company_Profile
+├── 03_Asset_Process_Inventory
+├── 04_Risk_Register
+├── 05_Risk_Control_Matrix
+├── LICENSE
+└── README.md
+```
+
+Additional folders will be added as the control-testing, remediation, and executive-reporting phases are completed.
+
+---
+
+## Professional Focus
+
+This project demonstrates practical capability relevant to roles in:
+
+* Technology Risk
+* IT Risk
+* Cybersecurity GRC
+* IT Controls
+* Internal Audit
+* Third-Party Risk Management
+* Cybersecurity Compliance
+* Operational Risk
+* AI Governance
+
+---
+
+## Author
+
+**Breck Agyekum**
+IT Risk & GRC Analyst
+Ottawa, Ontario, Canada
+[LinkedIn](https://linkedin.com/in/breck-agyekum)
