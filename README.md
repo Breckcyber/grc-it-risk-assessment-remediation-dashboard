@@ -12,9 +12,6 @@ The project demonstrates practical capability in translating technical control w
 > **Portfolio notice:** MapleCare Health Services is fictional. All information, risks, controls, test results, findings, and records in this repository are simulated for professional portfolio demonstration. No real patient, employee, client, or company data is used.
 
 ---
-
-## Engagement Objective
-
 ## Engagement Objective
 
 The objective of the engagement is to provide management with a clear and structured view of MapleCare’s key technology risks, existing controls, control gaps, accountable owners, and remediation priorities.
