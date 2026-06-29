@@ -1,13 +1,15 @@
 
 # Technology Risk Assessment, Control Assurance & Remediation Program
 
-This repository presents a practical technology risk and control assurance engagement developed for **MapleCare Health Services**, a fictional Canadian healthcare organization.
+Conducted an end-to-end technology risk and control assurance assessment for MapleCare Health Services, a simulated Canadian healthcare organization.
 
-The project demonstrates how a Technology Risk or GRC Analyst can move from business understanding and risk identification to control design, testing preparation, remediation tracking, and executive reporting.
+The engagement covered 15 technology and cybersecurity risks across Microsoft 365, patient records, identity and access management, third-party vendors, backups, endpoints, business continuity, and governance.
 
-The engagement focuses on technology and cybersecurity risks affecting sensitive patient, employee, billing, and internal business information.
+The work included business and technology scoping, asset and process identification, risk assessment, control design, framework mapping, control testing, evidence review, findings analysis, remediation planning, and executive reporting.
 
-> **Portfolio notice:** MapleCare Health Services is fictional. All information, risks, controls, and records in this repository were created for professional learning and portfolio demonstration. No real patient, employee, client, or company data is used.
+The project demonstrates practical capability in translating technical control weaknesses into clear business risks, testing whether controls are working, and presenting management with prioritized actions and accountable next steps.
+
+> **Portfolio notice:** MapleCare Health Services is fictional. All information, risks, controls, test results, findings, and records in this repository are simulated for professional portfolio demonstration. No real patient, employee, client, or company data is used.
 
 ---
 
