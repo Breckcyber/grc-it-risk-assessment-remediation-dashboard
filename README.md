@@ -38,24 +38,23 @@ The engagement covers the following areas:
 
 
 ---
-
 ## Business Scenario
 
 MapleCare Health Services is a fictional Canadian healthcare organization with approximately 150 employees.
 
-The organization relies on Microsoft 365, SharePoint, a patient records system, an HR management platform, endpoint devices, backup services, and a third-party billing portal.
+The organization depends on Microsoft 365, SharePoint, a patient records system, an HR management platform, employee endpoint devices, backup services, and a third-party billing portal to support clinical, administrative, and financial operations.
 
-Because these systems support important healthcare and business operations, management requires a clearer understanding of:
+Because these systems process sensitive patient, employee, billing, and internal business information, management requires a clearer understanding of:
 
-* Critical technology risks
-* Existing control coverage
-* Control design gaps
-* Third-party exposure
-* Risk ownership
+* Material technology and cybersecurity risks
+* Existing control coverage and ownership
+* Control design and operating gaps
+* Third-party and vendor exposure
 * Remediation priorities
+* Risk acceptance and escalation needs
 * Audit and assurance readiness
+* The potential impact of control weaknesses on service continuity, privacy, and business operations
 
----
 
 ## Engagement Approach
 
