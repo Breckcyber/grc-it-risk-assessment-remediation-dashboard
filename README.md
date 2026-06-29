@@ -15,24 +15,30 @@ The project demonstrates practical capability in translating technical control w
 
 ## Engagement Objective
 
-The objective of the engagement is to provide management with a structured view of MapleCare’s key technology risks, existing controls, control gaps, ownership, and remediation priorities.
+## Engagement Objective
 
-The assessment covers areas including:
+The objective of the engagement is to provide management with a clear and structured view of MapleCare’s key technology risks, existing controls, control gaps, accountable owners, and remediation priorities.
+
+The assessment is designed to support risk-based decision-making by identifying where control weaknesses could affect sensitive information, business operations, regulatory obligations, and service continuity.
+
+The engagement covers the following areas:
 
 * Identity and access management
 * Microsoft 365 and SharePoint security
 * Patient-record access
-* Employee offboarding
+* Employee onboarding and offboarding
+* Privileged access management
 * Third-party and vendor risk
 * Backup and recovery
 * Incident response
-* Security awareness
+* Security awareness and training
 * Patch and vulnerability management
-* Data classification
+* Data classification and handling
 * Endpoint security
 * Business continuity
-* Risk governance
+* Technology risk governance
 * Audit evidence management
+
 
 ---
 
