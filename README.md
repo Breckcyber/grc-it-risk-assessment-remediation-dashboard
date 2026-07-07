@@ -303,7 +303,6 @@ Closure requires:
 
 ---
 
-## Framework Alignment
 
 ## Framework Alignment
 
