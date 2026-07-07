@@ -139,7 +139,7 @@ As the Technology Risk and GRC Analyst for this review, I was responsible for:
 | 5 | [Risk and Control Matrix](05_Risk_Control_Matrix/)           | Links identified risks to control objectives, recommended controls, owners, frequencies, testing procedures, evidence requirements, and framework references.              | Completed   |
 | 6 | [Control Testing and Evidence](06_Control_Testing_Evidence/) | Assesses control design and operating effectiveness through population analysis, risk-based sampling, evidence review, exception analysis, and documented conclusions.     | Completed   |
 | 7 | [Remediation Tracker](07_Remediation_Tracker/)               | Tracks findings, root causes, management actions, accountable owners, target dates, progress, closure evidence, validation, and retesting requirements.                    | Completed   |
-| 8 | Executive Risk Reporting and Management Summary              | Consolidates risk exposure, control effectiveness, significant findings, remediation progress, overdue actions, and management priorities into decision-focused reporting. | In Progress |
+| 8 | [Executive Risk Reporting and Management Summary](08_Executive_Risk_Reporting/) | Consolidates risk exposure, control effectiveness, significant findings, remediation progress, overdue actions, and management priorities into decision-focused Power BI reporting. | Completed |
 
 ---
 
