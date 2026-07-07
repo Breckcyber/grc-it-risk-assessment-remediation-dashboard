@@ -140,7 +140,6 @@ As the Technology Risk and GRC Analyst for this review, I was responsible for:
 | 6 | [Control Testing and Evidence](06_Control_Testing_Evidence/) | Assesses control design and operating effectiveness through population analysis, risk-based sampling, evidence review, exception analysis, and documented conclusions.     | Completed   |
 | 7 | [Remediation Tracker](07_Remediation_Tracker/)               | Tracks findings, root causes, management actions, accountable owners, target dates, progress, closure evidence, validation, and retesting requirements.                    | Completed   |
 | 8 | [Executive Risk Reporting and Management Summary](08_Executive_Risk_Reporting/) | Consolidates risk exposure, control effectiveness, significant findings, remediation progress, overdue actions, and management priorities into decision-focused Power BI reporting. | Completed |
-
 ---
 ## Executive Power BI Reporting
 
@@ -172,6 +171,20 @@ This interactive page allows the user to select a Risk ID and trace the related 
 
 <img width="1292" height="727" alt="Risk Details" src="https://github.com/user-attachments/assets/93f367c7-b0de-4ef1-ba5c-3096d9da4c9b" />
 
+## Executive Reporting Results
+
+| Reporting Metric | Result |
+|---|---:|
+| Technology risks assessed | 15 |
+| Critical risks | 4 |
+| High risks | 10 |
+| Controls tested | 15 |
+| Ineffective controls | 9 |
+| Testing exceptions | 38 |
+| Open findings | 15 |
+| Open remediation actions | 13 |
+| Completed remediation actions | 2 |
+| Average remediation progress | 35.7% |
 
 ## Risk and Control Assessment
 
@@ -292,12 +305,15 @@ Closure requires:
 
 ## Framework Alignment
 
-The review uses the following frameworks to support risk and control analysis:
+## Framework Alignment
 
-* NIST Cybersecurity Framework 2.0
-* NIST SP 800-53 Revision 5
-* ISO/IEC 27001:2022
+The review uses the following frameworks to support technology risk analysis, control mapping, testing procedures, and evidence requirements:
 
+- NIST Cybersecurity Framework 2.0
+- NIST SP 800-53 Revision 5
+- ISO/IEC 27001:2022
+
+Framework references support the assessment methodology and do not imply certification or formal compliance by MapleCare Health Services.
 Additional references may be used where relevant:
 
 * NIST AI Risk Management Framework
@@ -329,6 +345,12 @@ Framework references support the assessment and do not imply certification or fo
 * Executive risk reporting
 * Microsoft Excel-based control analysis
 * Python-supported GRC workflow automation
+* Power BI data modelling and visualization
+* DAX measure development
+* Executive dashboard development
+* Interactive risk-detail reporting
+* Data cleaning using Power Query
+* Management reporting and decision support
 
 ---
 
@@ -370,14 +392,14 @@ grc-it-risk-assessment-remediation-dashboard
 ├── 05_Risk_Control_Matrix
 ├── 06_Control_Testing_Evidence
 ├── 07_Remediation_Tracker
+├── 08_Executive_Risk_Reporting
 ├── LICENSE
 └── README.md
 ```
 
-The final folder will be added as:
 
 ```text
-08_Executive_Risk_Reporting
+
 ```
 
 ---
