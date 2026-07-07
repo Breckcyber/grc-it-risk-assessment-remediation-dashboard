@@ -142,6 +142,36 @@ As the Technology Risk and GRC Analyst for this review, I was responsible for:
 | 8 | [Executive Risk Reporting and Management Summary](08_Executive_Risk_Reporting/) | Consolidates risk exposure, control effectiveness, significant findings, remediation progress, overdue actions, and management priorities into decision-focused Power BI reporting. | Completed |
 
 ---
+## Executive Power BI Reporting
+
+The assessment results were consolidated into an interactive Power BI report containing four management-focused pages.
+
+### Executive Risk Overview
+
+This page summarizes overall technology risk exposure, inherent risk ratings, risk categories, control effectiveness, and open findings.
+
+<img width="1296" height="729" alt="Executive Risk Overview" src="https://github.com/user-attachments/assets/625af9fb-2fd9-4c2c-815e-a99655d600c4" />
+
+### Remediation Management
+
+This page presents open and completed actions, average remediation progress, action status, accountable owners, and detailed management actions.
+
+<img width="1297" height="731" alt="Remediation Management " src="https://github.com/user-attachments/assets/a6ff01f8-71d3-41fc-86b4-20afc5e675d9" />
+
+
+### Control Assurance
+
+This page compares control design and operating effectiveness, testing exceptions, control areas, and detailed control-testing results.
+
+<img width="1293" height="725" alt="Control Assurance " src="https://github.com/user-attachments/assets/4459a1a9-8455-405f-ad76-da83532329a4" />
+
+
+### Risk Detail
+
+This interactive page allows the user to select a Risk ID and trace the related risk description, control gap, testing result, finding, and remediation response.
+
+<img width="1292" height="727" alt="Risk Details" src="https://github.com/user-attachments/assets/93f367c7-b0de-4ef1-ba5c-3096d9da4c9b" />
+
 
 ## Risk and Control Assessment
 
